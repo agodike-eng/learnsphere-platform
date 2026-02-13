@@ -1,0 +1,1 @@
+{\n  \"compilerOptions\": {\n    \"target\": \"ES2020\",\n    \"jsx\": \"react\",\n    \"strict\": true,\n    \"noImplicitAny\": true,\n    \"strictNullChecks\": true,\n    \"strictFunctionTypes\": true,\n    \"strictBindCallApply\": true,\n    \"strictPropertyInitialization\": true,\n    \"noImplicitThis\": true,\n    \"alwaysStrict\": true\n  }\n}
